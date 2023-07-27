@@ -1,4 +1,4 @@
-![logo](https://github.com/omkarjadhav296/omkarjadhav296/blob/main/OmkarJadhav_Banner.png)
+![logo](https://github.com/samerthgis/samerthgis/blob/main/Copy%20of%20Automotive%20(Banner%20(Landscape)).png)
 <div>
 <h3 align="center">I'm a Data Science Enthusiast from India.</h3><p align="right">
 </div>
